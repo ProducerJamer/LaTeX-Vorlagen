@@ -1,5 +1,9 @@
 # LaTeX-Vorlagen
 Hier werden TeX Dokumente veröffentlicht, die dem Lernen der LaTeX Syntax dienen.
+Danke, dass du dich dazu entschlossen hast, dein LaTeX Wissen zu teilen.
+
+## Doc-Start
+Damit erstellte Dokumente uniform und übersichtlich sind und bleiben bitte ich dich, diesen Doc-Start zu verwenden.
 
 ```tex
 \documentclass[a4paper, 15pt]{article}
@@ -40,4 +44,4 @@ Hier werden TeX Dokumente veröffentlicht, die dem Lernen der LaTeX Syntax diene
 \begin{document}
 Inhalt
 \end{document}
-```tex
+```
