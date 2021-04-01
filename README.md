@@ -18,8 +18,6 @@ Damit erstellte Dokumente uniform und übersichtlich sind und bleiben bitte ich 
 \usepackage{tabularx}
 \usepackage{tikz}
 \usepackage{pgfplots}
-\pgfplotsset{compat=1.17}
-\usetikzlibrary{arrows,calc}
 \usepackage{uarial}
 \renewcommand{\familydefault}{\sfdefault}
 \usepackage{blindtext}
@@ -29,6 +27,8 @@ Damit erstellte Dokumente uniform und übersichtlich sind und bleiben bitte ich 
 \usepackage{array}
 \usepackage{spath3}
 \usepackage{bigdelim}
+\pgfplotsset{compat=1.17}
+\usetikzlibrary{arrows,calc}
 
 \pagestyle{fancy}
 	\lhead{\slshape Titel}
