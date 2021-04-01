@@ -1,6 +1,7 @@
 # LaTeX-Vorlagen
 Hier werden TeX Dokumente veröffentlicht, die dem Lernen der LaTeX Syntax dienen.
 
+```tex
 \documentclass[a4paper, 15pt]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[ngerman]{babel}
@@ -39,3 +40,4 @@ Hier werden TeX Dokumente veröffentlicht, die dem Lernen der LaTeX Syntax diene
 \begin{document}
 Inhalt
 \end{document}
+```tex
