@@ -19,7 +19,6 @@ Damit erstellte Dokumente uniform und übersichtlich sind und bleiben bitte ich 
 \usepackage{tikz}
 \usepackage{pgfplots}
 \usepackage{uarial}
-\renewcommand{\familydefault}{\sfdefault}
 \usepackage{blindtext}
 \usepackage{fancyhdr}
 \usepackage{MnSymbol}
@@ -27,6 +26,7 @@ Damit erstellte Dokumente uniform und übersichtlich sind und bleiben bitte ich 
 \usepackage{array}
 \usepackage{spath3}
 \usepackage{bigdelim}
+\renewcommand{\familydefault}{\sfdefault}
 \pgfplotsset{compat=1.17}
 \usetikzlibrary{arrows,calc}
 
